@@ -10,3 +10,6 @@ To learn about Git, GitHub, and how to track changes using version control.
 - How to initialize a Git repository  
 - How to stage, commit, and push changes  
 - The importance of version control in collaborative development 
+
+**Images of Lab**
+- ![Lab 1 Image](lab1.png)  
